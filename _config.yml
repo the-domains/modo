@@ -1,0 +1,28 @@
+name: MODO
+favicon: null
+layout_spectrum: 0.023649303941056132
+typography_spectrum: 0.009776627877727151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45386159094050527
+  lightness: 0.3393893474712968
+  saturation: 0.7266774459276348
+  rhythmicContrast: 0.5229516886174679
+purpose: []
