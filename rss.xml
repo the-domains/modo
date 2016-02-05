@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HELLO MODO]]></title>
+        <description><![CDATA[HELLO MODO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 14:16:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Borrow and Lend smarter.</p>]]></description>
+            <link>undefined35eaafa7-9931-4201-a366-4153be682b72/index.html</link>
+            <guid isPermaLink="false">35eaafa7-9931-4201-a366-4153be682b72</guid>
+            <pubDate>Fri, 05 Feb 2016 14:16:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
