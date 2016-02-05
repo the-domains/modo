@@ -1,7 +1,7 @@
 name: MODO
 favicon: null
-layout_spectrum: 0.023649303941056132
-typography_spectrum: 0.009776627877727151
+layout_spectrum: 0.49281
+typography_spectrum: 0.77585
 title: MODO
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#30cb00'
     - '#4ae54a'
   brandStrength: 1
-  lightness: 0.3125
-  saturation: 0.25
+  lightness: 0.625
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
