@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T23:02:58.275Z'
-dateModified: '2016-02-12T23:02:54.084Z'
-title: "Edwin Loredo &\_Cuauhtémoc Ocampo"
+datePublished: '2016-02-12T23:04:16.957Z'
+dateModified: '2016-02-12T23:04:14.872Z'
+title: Our Founders.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
 published: true
