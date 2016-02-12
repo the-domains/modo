@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HELLO MODO]]></title>
         <description><![CDATA[HELLO MODO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.modoapp.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 14:16:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Feb 2016 02:46:41 GMT</lastBuildDate>
+        <atom:link href="http://www.modoapp.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Borrow and Lend smarter.</p>]]></description>
-            <link>undefined35eaafa7-9931-4201-a366-4153be682b72/index.html</link>
+            <title><![CDATA[You live in the 21st century now. Borrow and lend like it.]]></title>
+            <description><![CDATA[<h1>You live in the 21st century now. Borrow and lend like it.</h1>]]></description>
+            <link>http://www.modoapp.co/35eaafa7-9931-4201-a366-4153be682b72/index.html</link>
             <guid isPermaLink="false">35eaafa7-9931-4201-a366-4153be682b72</guid>
-            <pubDate>Fri, 05 Feb 2016 14:16:10 GMT</pubDate>
+            <pubDate>Fri, 12 Feb 2016 02:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
