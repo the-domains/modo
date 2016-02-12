@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T23:01:52.744Z'
-dateModified: '2016-02-12T23:01:50.575Z'
+datePublished: '2016-02-12T23:02:58.275Z'
+dateModified: '2016-02-12T23:02:54.084Z'
 title: "Edwin Loredo &\_Cuauhtémoc Ocampo"
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
@@ -22,7 +22,7 @@ url: our-founders/index.html
 _type: WebPage
 
 ---
-# Edwin Loredo & Cuauhtémoc Ocampo
+## Edwin Loredo & Cuauhtémoc Ocampo
 
 * Born and raised in Los Angeles, CA
 * Princeton University ; A.B. Economics
