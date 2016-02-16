@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T18:00:57.598Z'
-dateModified: '2016-02-15T18:00:41.927Z'
-title: Let me see the app.
+datePublished: '2016-02-16T21:48:06.402Z'
+dateModified: '2016-02-16T21:48:01.571Z'
+title: Check out the app.
 author: []
+sourcePath: _posts/2016-02-15-let-me-see-the-app.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-let-me-see-the-app.md
-published: true
 url: let-me-see-the-app/index.html
 _type: WebPage
 
