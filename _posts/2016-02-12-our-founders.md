@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T17:36:59.541Z'
-dateModified: '2016-02-15T17:14:30.757Z'
+datePublished: '2016-02-17T15:40:32.535Z'
+dateModified: '2016-02-17T15:40:29.550Z'
 title: Our Founders.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
