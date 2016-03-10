@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Over the last several years, we have seen financial technology disrupt the traditional banking model and help start bringing finance into the 21st century. Our generation has transitioned into a lifestyle in which mobile applications and social media have come together to make everyday activities (i.e. shopping (Amazon), transportation (Uber / Lyft), delivery (Grubhub), dating (Tinder), etc.) seamless and easily accessible. Yet, why is it that finance--particularly the mobile credit market--is non-existant?'
-datePublished: '2016-03-10T16:23:26.310Z'
-dateModified: '2016-03-10T16:22:18.960Z'
-title: ''
+datePublished: '2016-03-10T16:24:45.328Z'
+dateModified: '2016-03-10T16:24:15.043Z'
+title: Redefining the Online Credit Market
 author: []
 sourcePath: _posts/2016-03-10-over-the-last-several-years-we-have-seen-financial-technolo.md
 published: true
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: over-the-last-several-years-we-have-seen-financial-technolo/index.html
-_type: Article
+_type: Blurb
 
 ---
 Over the last several years, we have seen financial technology disrupt the traditional banking model and help start bringing finance into the 21st century. Our generation has transitioned into a lifestyle in which mobile applications and social media have come together to make everyday activities (i.e. shopping (Amazon), transportation (Uber / Lyft), delivery (Grubhub), dating (Tinder), etc.) seamless and easily accessible. Yet, why is it that finance--particularly the mobile credit market--is non-existant?
