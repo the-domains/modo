@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HELLO MODO]]></title>
+        <description><![CDATA[HELLO MODO]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 16:18:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Over the last several years, we have seen financial technology disrupt the traditional banking model and help start bringing finance into the 21st century. Our generation has transitioned into a lifestyle in which mobile applications and social media have come together to make everyday activities (i.e. shopping (Amazon), transportation (Uber / Lyft), delivery (Grubhub), dating (Tinder), etc.) seamless and easily accessible. Yet, why is it that finance--particularly the mobile credit market--is non-existant?</p>]]></description>
+            <link>undefinedover-the-last-several-years-we-have-seen-financial-technolo/index.html</link>
+            <guid isPermaLink="false">474a1e84-88b9-4780-92bc-d13473e794af</guid>
+            <pubDate>Thu, 10 Mar 2016 16:18:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
