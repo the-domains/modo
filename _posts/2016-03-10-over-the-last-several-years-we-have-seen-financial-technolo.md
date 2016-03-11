@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Over the last several years, we have seen financial technology disrupt the traditional banking model and help start bringing finance into the 21st century. Our generation has transitioned into a lifestyle in which mobile applications and social media have come together to make everyday activities (i.e. shopping (Amazon), transportation (Uber / Lyft), delivery (Grubhub), dating (Tinder), etc.) seamless and easily accessible. Yet, why is it that finance--particularly the mobile credit market--is non-existant?'
-datePublished: '2016-03-10T16:39:20.693Z'
-dateModified: '2016-03-10T16:24:52.387Z'
+datePublished: '2016-03-11T03:20:12.552Z'
+dateModified: '2016-03-11T03:20:03.365Z'
 title: Redefining the Online Credit Market
 author: []
 sourcePath: _posts/2016-03-10-over-the-last-several-years-we-have-seen-financial-technolo.md
@@ -30,4 +30,4 @@ Sure, companies such as Lending Club, Prosper, and OnDeck have helped alleviate 
 
 **_Because _****_the users are not given the power to drive / set their own terms._**
 
-If you are the one who is going to be paying off / providing the line of credit, does it not make sense for you to have a say on the prevailing rate in order to ensure that you place yourself in the best position--both for repayment and capital gains? Such an inclusive process can only be possible in an open marketplace where borrowers and lenders are given the opportunity to propose, negotiate, and ultimately reach an agreement that guarantees to leave BOTH parties satisfied.
+If you are the one who is going to be paying off / providing the line of credit, does it not make sense for you to have a say on the prevailing rate in order to ensure that you place yourself in the best position--both for repayment and capital gains? Such an inclusive process can only be possible in an open marketplace where borrowers and lenders are given the opportunity to propose, negotiate, and ultimately reach an agreement that guarantees to leave BOTH parties satisfied.   ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0494423-f9f6-46df-a9de-29bf4a405927.jpg)
