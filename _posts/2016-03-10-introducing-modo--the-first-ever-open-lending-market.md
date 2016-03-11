@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "MODO allows ANY individual--no matter the credit score--to borrow in times of financial distress. The platform connects users that are in need of capital--ranging from $20 - $1,000--with every day individuals that have some extra cash and are looking for investments that are less volatile than the stock market and more lucrative than a simple savings account. Both parties will then be given the opportunity to interact and decide on their OWN terms.\_"
-datePublished: '2016-03-11T02:56:39.047Z'
-dateModified: '2016-03-11T02:56:19.514Z'
+datePublished: '2016-03-11T03:00:40.572Z'
+dateModified: '2016-03-11T02:56:48.240Z'
 title: 'Introducing MODO:  The first ever open lending market.'
 author: []
 sourcePath: _posts/2016-03-10-introducing-modo--the-first-ever-open-lending-market.md
