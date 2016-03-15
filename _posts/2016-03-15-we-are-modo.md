@@ -7,18 +7,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T12:26:23.833Z'
-dateModified: '2016-03-15T12:25:46.140Z'
+datePublished: '2016-03-15T12:28:42.379Z'
+dateModified: '2016-03-15T12:26:29.855Z'
 title: We are MODO.
 author: []
+sourcePath: _posts/2016-03-15-we-are-modo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-we-are-modo.md
-published: true
 _type: Blurb
 
 ---
