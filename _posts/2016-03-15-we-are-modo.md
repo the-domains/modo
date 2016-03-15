@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T12:29:41.814Z'
-dateModified: '2016-03-15T12:28:51.111Z'
-title: We are MODO.
+datePublished: '2016-03-15T12:32:03.341Z'
+dateModified: '2016-03-15T12:31:52.299Z'
+title: 'Welcome to MODO!'
 author: []
 sourcePath: _posts/2016-03-15-we-are-modo.md
 published: true
