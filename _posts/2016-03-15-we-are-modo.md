@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T12:38:52.389Z'
-dateModified: '2016-03-15T12:37:29.092Z'
+datePublished: '2016-03-15T12:41:12.278Z'
+dateModified: '2016-03-15T12:40:20.110Z'
 title: 'Welcome to MODO!'
 author: []
 sourcePath: _posts/2016-03-15-we-are-modo.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08cd33b2-165d-4f69-89bc-05934ff3db89.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/939f021899cffd0f00cedf37d3a4a6c8e2865006.jpg)
