@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HELLO MODO]]></title>
         <description><![CDATA[HELLO MODO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.modoapp.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 15:31:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 15:32:28 GMT</lastBuildDate>
+        <atom:link href="http://www.modoapp.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb3cd322-f208-4e15-a2ae-ab14c773606e.jpg">]]></description>
-            <link>undefined8c1c7509-916a-480c-8d2e-1edfccd25fa3/index.html</link>
+            <link>http://www.modoapp.co/8c1c7509-916a-480c-8d2e-1edfccd25fa3/index.html</link>
             <guid isPermaLink="false">8c1c7509-916a-480c-8d2e-1edfccd25fa3</guid>
-            <pubDate>Tue, 15 Mar 2016 15:31:28 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 15:32:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
