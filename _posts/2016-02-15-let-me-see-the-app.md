@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Other pages posting soon!'
-datePublished: '2016-03-16T19:57:14.652Z'
-dateModified: '2016-03-16T19:55:29.969Z'
+datePublished: '2016-03-16T19:57:55.300Z'
+dateModified: '2016-03-16T19:57:20.986Z'
 title: Check out the app.
 author: []
 sourcePath: _posts/2016-02-15-let-me-see-the-app.md
