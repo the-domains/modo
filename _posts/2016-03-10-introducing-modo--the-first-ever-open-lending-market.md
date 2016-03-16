@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "MODO allows ANY individual--no matter the credit score--to borrow in times of financial distress. The platform connects users that are in need of capital--ranging from $20 - $1,000--with every day individuals that have some extra cash and are looking for investments that are less volatile than the stock market and more lucrative than a simple savings account. Both parties will then be given the opportunity to interact and decide on their OWN terms.\_"
-datePublished: '2016-03-11T03:00:40.572Z'
-dateModified: '2016-03-11T02:56:48.240Z'
+datePublished: '2016-03-16T02:33:28.606Z'
+dateModified: '2016-03-16T02:32:59.703Z'
 title: 'Introducing MODO:  The first ever open lending market.'
 author: []
 sourcePath: _posts/2016-03-10-introducing-modo--the-first-ever-open-lending-market.md
@@ -22,11 +22,11 @@ publisher:
 _type: Blurb
 
 ---
-MODO allows ANY individual--no matter the credit score--to borrow in times of financial distress. The platform connects users that are in need of capital--ranging from $20 - $1,000--with every day individuals that have some extra cash and are looking for investments that are less volatile than the stock market and more lucrative than a simple savings account. Both parties will then be given the opportunity to interact and decide on their OWN terms. 
+MODO grants _any_ individual _regardless of credit score_ the opportunity to borrow in times of financial distress. The platform connects users that are in need of capital (between $20 and $1,000) with ordinary people that have some extra cash and are looking for investments that are less volatile than the stock market but more lucrative than a basic savings account. Both parties are given the opportunity to interact and determine their _own _agreements for the transaction. 
 
-With MODO, individuals riding a financial high can help those unfortunate to find themselves in one of the lows that many of us know so well. MODO allows us to tackle financial troubles together, and provides a platform that places the power where it belongs--in the hands of the users.  
+MODO allows individuals experiencing financially good times to help those unfortunate to find themselves in one of those budgetary lows that many of us know too well. It allows us to tackle financial troubles together and provides a platform that places the power where it belongs - _right in the hands of users_.  
 
-**Personal Finance, meet the 21st century. Meet [MODO][0].   **
+**Personal Finance, welcome to the 21st century. Meet [MODO][0].   **
 
 ****
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0538bc76936980568dac3be759bfdeebd31433c9.jpg)
