@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-16T21:48:06.402Z'
-dateModified: '2016-02-16T21:48:01.571Z'
+description: Efficiency delivered with simplicity.
+datePublished: '2016-03-16T13:40:33.906Z'
+dateModified: '2016-03-16T13:40:17.858Z'
 title: Check out the app.
 author: []
 sourcePath: _posts/2016-02-15-let-me-see-the-app.md
@@ -23,19 +23,6 @@ _type: WebPage
 
 ---
 Efficiency delivered with simplicity.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c85cb0f7-93c1-4d46-9d66-19ff392cad14.jpg)
 
-_**For Borrowers.**_
-
-\[image 1\]
-
-\[image 2\]
-
-\[image 3\]
-
-**_For Lenders._**
-
-\[image 1\]
-
-\[image 2\]
-
-\[image 3\]
+_Other pages posting soon!_
