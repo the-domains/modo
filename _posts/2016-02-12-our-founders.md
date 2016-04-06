@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Edwin Loredo \_|| \_Cuauhtémoc Ocampo"
-datePublished: '2016-03-16T13:46:37.434Z'
-dateModified: '2016-03-16T13:46:37.174Z'
-title: Our Founders.
+datePublished: '2016-04-06T03:51:18.231Z'
+dateModified: '2016-04-06T03:51:04.173Z'
+title: Our Team.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
 published: true
@@ -22,7 +22,7 @@ url: our-founders/index.html
 _type: WebPage
 
 ---
-**Edwin Loredo  ||  Cuauhtémoc Ocampo**
+**Founders: Edwin Loredo  ||  Cuauhtémoc Ocampo**
 
 Our founders were born and raised in SoCal before venturing east to New Jersey where they both attained their undergraduate degrees in economics at Princeton University. 
 
@@ -30,5 +30,10 @@ Over the years, having met during their first week as freshmen, they developed k
 
 After graduating each went their separate way, one to New York and the other Dallas. However, friendship and the drive to make the world a better place will always transcend physical distance.
 
+**App Development: Viveque Ramji**
+
+Our student developer is from London, currently studying Mechanical & Aerospace Engineering and intending to attain certificates in Computer Science and Operations, Research and Financial Engineering.
+
+In addition to academics, he is on the Varsity Lightweight Rowing team, Tech Chair of the Princeton Hidden Minority Council, and aiding the development of this revolutionary platform. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/604a1a49b4eacc7954484fd678c06cf17f30a436.png)
+
 It is with great excitement they bring personal finance to the 21st century, and a pleasure to bring you **MODO**.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/604a1a49b4eacc7954484fd678c06cf17f30a436.png)
