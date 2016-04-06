@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'Over the last several years, we have seen financial technology disrupt the traditional banking model and help start bringing finance into the 21st century. Our generation has transitioned into a lifestyle in which mobile applications and social media have come together to make everyday activities (i.e. shopping (Amazon), transportation (Uber / Lyft), delivery (Grubhub), dating (Tinder), etc.) seamless and easily accessible. Yet, why is it that finance--particularly the mobile credit market--is non-existant?'
-datePublished: '2016-04-06T04:35:18.142Z'
-dateModified: '2016-04-06T04:34:33.962Z'
+description: "Over the past several years, we have seen financial technology disrupt the traditional banking model and start bringing finance into the 21st century. Our generation has transitioned to lifestyle in which mobile applications and social media have come together to make everyday activities [e.g. shopping #Amazon, transportation #Uber, delivery #Grubhub, dating #Tinder] seamless and easily accessible. So why is finance - \x7Fparticularly the mobile credit market - nonexistent?"
+datePublished: '2016-04-06T04:38:19.909Z'
+dateModified: '2016-04-06T04:38:04.514Z'
 title: Redefining the Online Credit Market
 author: []
 sourcePath: _posts/2016-03-10-over-the-last-several-years-we-have-seen-financial-technolo.md
@@ -38,6 +38,6 @@ If you will be the one paying off a loan or providing the line of credit, does i
 
 This comprehensive process is _only _possible in an open marketplace where borrowers and lenders are given the opportunity to propose, negotiate and ultimately reach an agreement that guarantees to leave both parties satisfied.  
 
-\#myMODO. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad63b5a-1d04-487b-a78d-8da410b0c797.jpg)
+Join the family; this is \#myMODO. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ad63b5a-1d04-487b-a78d-8da410b0c797.jpg)
 
 MODO (c) 2016
