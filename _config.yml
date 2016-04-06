@@ -1,6 +1,6 @@
 name: '#myMODO'
 favicon: null
-layout_spectrum: 0.69862
+layout_spectrum: 0.74561
 typography_spectrum: 0.50391
 title: HELLO MODO
 cta:
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#5aa02c'
-    - '#008000'
-    - '#000000'
-    - '#00ff00'
-    - '#555500'
+    - '#ffffff'
+    - '#20d1f7'
+    - '#9deafb'
+    - '#97c37b'
   brandStrength: 0.4375
   lightness: 0.5625
   saturation: 0.4375
