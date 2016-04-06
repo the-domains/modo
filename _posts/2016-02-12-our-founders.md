@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Edwin Loredo \_|| \_Cuauhtémoc Ocampo"
-datePublished: '2016-04-06T03:51:18.231Z'
-dateModified: '2016-04-06T03:51:04.173Z'
+description: "Founders: Edwin Loredo \_|| \_Cuauhtémoc Ocampo"
+datePublished: '2016-04-06T03:56:34.159Z'
+dateModified: '2016-04-06T03:52:58.123Z'
 title: Our Team.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
