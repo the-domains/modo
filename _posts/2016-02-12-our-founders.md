@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Founders: Edwin Loredo \_|| \_Cuauhtémoc Ocampo"
-datePublished: '2016-04-06T04:40:07.470Z'
-dateModified: '2016-04-06T03:56:42.553Z'
+datePublished: '2016-04-06T05:16:08.947Z'
+dateModified: '2016-04-06T05:08:24.490Z'
 title: Our Team.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
@@ -22,9 +22,9 @@ url: our-founders/index.html
 _type: WebPage
 
 ---
-**Founders: Edwin Loredo  ||  Cuauhtémoc Ocampo**
+**Founders: Edwin Loredo || Cuauhtémoc Ocampo**
 
-Our founders were born and raised in SoCal before venturing east to New Jersey where they both attained their undergraduate degrees in economics at Princeton University. 
+Our founders were born and raised in SoCal before venturing east to New Jersey where they both attained their undergraduate degrees in Economics at Princeton University. 
 
 Over the years, having met during their first week as freshmen, they developed kinship through constant discussion of ideas ranging from services to investment information. It was only a matter of time before they developed a keen understanding of the power of technology and the social inefficiencies that can be bridged with it. 
 
