@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Founders: Edwin Loredo \_|| \_Cuauhtémoc Ocampo"
-datePublished: '2016-04-06T05:16:08.947Z'
-dateModified: '2016-04-06T05:08:24.490Z'
+description: 'Founders: Edwin Loredo || Cuauhtémoc Ocampo'
+datePublished: '2016-04-06T05:18:47.629Z'
+dateModified: '2016-04-06T05:18:31.203Z'
 title: Our Team.
 author: []
 sourcePath: _posts/2016-02-12-our-founders.md
@@ -32,8 +32,7 @@ After graduating each went their separate way, one to New York and the other Dal
 
 **App Development: Viveque Ramji**
 
-Our student developer is from London, currently studying Mechanical & Aerospace Engineering and intending to attain certificates in Computer Science and Operations, Research and Financial Engineering.
-
-In addition to academics, he is on the Varsity Lightweight Rowing team, Tech Chair of the Princeton Hidden Minority Council, and aiding the development of this revolutionary platform. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/604a1a49b4eacc7954484fd678c06cf17f30a436.png)
+Our student developer is from London, currently studying Mechanical & Aerospace Engineering and intending to attain certificates in Computer Science and Operations, Research and Financial Engineering.  
+In addition to academics, Viveque is on the Varsity Lightweight Rowing team, Tech Chair of the Princeton Hidden Minority Council, and aiding the development of this revolutionary platform. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/604a1a49b4eacc7954484fd678c06cf17f30a436.png)
 
 It is with great excitement they bring personal finance to the 21st century, and a pleasure to bring you **MODO**.
